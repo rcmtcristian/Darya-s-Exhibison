@@ -3,7 +3,6 @@
 
 Display site for the clients compliation of photographs
 
-
 ## Demo
 
 [Live site](https://glittery-kheer-212985.netlify.app/)
