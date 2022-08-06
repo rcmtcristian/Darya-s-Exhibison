@@ -1,5 +1,4 @@
 
-
 # Virtual Playground
 
 Display site for the clients compliation of photographs
