@@ -1,5 +1,3 @@
-# html5up-art-gallery
-
 # Virtual Playground
 
 Display site for the clients compliation of photographs
