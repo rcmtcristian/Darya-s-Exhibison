@@ -1,6 +1,6 @@
 # Virtual Playground
 
-Display site for the clients compliation of photographs
+Display site for the clients compilation of photographs
 
 
 ## Demo
