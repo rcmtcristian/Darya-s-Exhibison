@@ -1,4 +1,4 @@
-# Virtual Playground
+# Darya-s-Exhibison
 Capturing the Soul of Moments
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://glittery-kheer-212985.netlify.app/)
